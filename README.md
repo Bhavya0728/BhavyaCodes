@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I am <a href="https://bhavya">Bhavya Mudgal!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-# <h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
+# <h1><a href="https://bhavya.mudgal">bhavya.mudgal</a> - Visit my portfolio</h1>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyaCodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
@@ -129,8 +129,8 @@
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavya-tomar/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:xbhavyatomar@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhavya-mudgal/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:xbhavyamudgal@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/bhavyacodes"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
